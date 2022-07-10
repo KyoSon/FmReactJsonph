@@ -1,0 +1,4 @@
+instruction ：
+1. Open the project with VS code
+2. press "Ctrl+ Shift +`" or click on Terminal → New Terminal to open a terminal.
+3. Enter "npm start" command to run this project.
